@@ -6,6 +6,12 @@ Download Instagram images
 
 
 
+## Why
+
+Some senior in my school asked me to yoink some Instagram posts for the yearbook, so logically I made a bot to do it for me. You're welcome, now give me money.
+
+
+
 ## Download
 
 - Clone this repository: `git clone https://github.com/imaperson1060/instagram-image-downloader`
